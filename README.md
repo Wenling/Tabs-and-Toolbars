@@ -1,3 +1,5 @@
+Check out the [live demo][demo]!
+
 The tutorial includes several checkpoints:
 
 * [Blank slate][00]
@@ -43,3 +45,5 @@ By default, the git clone command will only create the master branch locally. If
 [03-04]: https://github.com/senchalearn/Tabs-and-Toolbars/compare/03_make_each_card_specialize...04_add_a_toolbar_to_each_card
 [04-05]: https://github.com/senchalearn/Tabs-and-Toolbars/compare/04_add_a_toolbar_to_each_card...05_add_buttons_to_top_toolbar
 [05-06]: https://github.com/senchalearn/Tabs-and-Toolbars/compare/05_add_buttons_to_top_toolbar...06_create_more_buttons
+
+[demo]: http://senchalearn.github.com/Tabs-and-Toolbars/
