@@ -25,11 +25,15 @@ Ext.define('Sencha.view.Action', {
             title: 'Titlebars accomodate buttons and titles',
             items: [
                 {
-                    text:    'ping',
+                    iconMask:true,
+                    iconCls: 'star',
+                    ui:      'plain',
                     align:   'right',
                     action:  'pingHomeBadge'
                 },{
-                    text:    'clear',
+                    iconMask:true,
+                    iconCls: 'delete',
+                    ui:      'plain',
                     align:   'left',
                     action:  'clearHomeBadge'
                 }
