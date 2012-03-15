@@ -10,7 +10,7 @@ The tutorial includes several checkpoints:
 * [Add 'ping' and 'clear' buttons, which update badge text][05] ([view diff][04-05])
 * [Demonstrate different UI styles for buttons][06] ([view diff][05-06])
 
-## Using this repository to follow the screencast
+## Using this repository to [follow the screencast][video]
 
 First, you'll have to clone this repository:
 
@@ -47,3 +47,4 @@ By default, the git clone command will only create the master branch locally. If
 [05-06]: https://github.com/senchalearn/Tabs-and-Toolbars/compare/05_add_buttons_to_top_toolbar...06_create_more_buttons
 
 [demo]: http://senchalearn.github.com/Tabs-and-Toolbars/
+[video]: https://vimeo.com/album/1846874/video/37399169
